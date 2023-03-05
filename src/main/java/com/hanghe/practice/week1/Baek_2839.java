@@ -1,6 +1,5 @@
 package com.hanghe.practice.week1;
 
-import java.io.*;
 import java.util.Scanner;
 
 /*
@@ -11,7 +10,7 @@ import java.util.Scanner;
 상근이가 설탕을 정확하게 N킬로그램 배달해야 할 때, 봉지 몇 개를 가져가면 되는지 그 수를 구하는 프로그램을 작성하시오.
 */
 
-public class Baek2839 {
+public class Baek_2839 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
