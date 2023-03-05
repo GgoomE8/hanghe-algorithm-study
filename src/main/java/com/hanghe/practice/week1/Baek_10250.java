@@ -35,6 +35,7 @@ public class Baek_10250 {
                 Rn = 100 * (N % H) + N / H + 1;
                 sb.append(Rn);
             }
+            sb.append("\n");
         }
         System.out.println(sb);
     }
